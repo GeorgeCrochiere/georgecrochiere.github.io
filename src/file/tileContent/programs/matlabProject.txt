@@ -1,0 +1,4 @@
+- February 2022 to April 2022
+- Clarkson Honors MATLAB Class
+- Built with K. LaChance (Honors Student, Clarkson University, Mechanical Eng.)
+- Starting file: bridgeConstructor.m

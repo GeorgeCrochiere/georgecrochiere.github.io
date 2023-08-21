@@ -1,0 +1,33 @@
+﻿.image-item {
+    object-fit: scale-down;
+    max-width: 17rem;
+    max-height: 20rem;
+    padding: 0.5rem;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 640.98px) {
+    .image-panorama {
+        max-width: 80vw;
+        padding: 0.5rem;
+        margin-bottom: 4px;
+    }
+}
+
+@media (min-width: 641px) {
+    .image-panorama {
+        max-width: 50vw;
+        padding: 0.5rem;
+        margin-bottom: 4px;
+        max-height: 20vh;
+    }
+}
+
+.line-color {
+    color: aliceblue;
+}

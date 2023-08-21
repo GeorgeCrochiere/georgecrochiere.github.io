@@ -1,0 +1,4 @@
+- Spring 2023
+- Made for Database Class at Clarkson
+- Built with 3 other Clarkson Students
+- Simple program to implement SQL database into a website

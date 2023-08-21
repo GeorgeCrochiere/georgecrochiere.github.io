@@ -1,0 +1,3 @@
+- Designed to act as interactive program on friend's Discord Server
+- Focuses on data aggregation and cleaning
+- WIP

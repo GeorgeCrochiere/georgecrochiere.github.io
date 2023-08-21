@@ -1,0 +1,4 @@
+- Summer 2023
+- The site you are currently on
+- Originally made with HTML/CSS/JS
+- Initially built for Clarkson Honors Portfolio

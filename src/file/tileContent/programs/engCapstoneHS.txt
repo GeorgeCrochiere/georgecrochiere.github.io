@@ -1,0 +1,3 @@
+- Spring 2021
+- Capstone Project done for High School
+- Programmed basic laser communication between two Raspberry Pi Computers

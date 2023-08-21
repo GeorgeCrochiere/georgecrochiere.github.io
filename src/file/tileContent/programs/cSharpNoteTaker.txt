@@ -1,0 +1,4 @@
+- Program to store notes
+- Will include password storage
+- Extension of previous personal project to store passwords locally (Java)
+- WIP

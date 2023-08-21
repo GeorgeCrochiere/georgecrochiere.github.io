@@ -1,0 +1,3 @@
+- Java, MATLAB, C++, Python, SQL
+- HTML, CSS, JS (Web Development)
+- Working on C#/.NET, Blazor, ASP.NET
