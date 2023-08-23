@@ -1,6 +1,6 @@
 var site = window.location;
-var newSite = site.origin;
 if (site.search.length > 1) {
-    newSite += site.search.substring(2);
+    var newSite = site.origin;
+    newSite += site.search.substring(1);
+    site.replace(newSite);
 }
-site.replace(newSite);
