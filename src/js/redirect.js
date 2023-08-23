@@ -1,4 +1,4 @@
-function reroute() {
+﻿function reroute() {
     var site = window.location;
     if (site.search.length > 1) {
         var newSite = site.origin;
@@ -6,5 +6,3 @@ function reroute() {
         site.replace(newSite);
     }
 }
-
-reroute();
