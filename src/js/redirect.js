@@ -6,3 +6,5 @@ function reroute() {
         site.replace(newSite);
     }
 }
+
+reroute();
