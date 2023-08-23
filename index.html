@@ -11,7 +11,7 @@
     <link href="HonorsPortfolioSite.styles.css" rel="stylesheet" />
 </head>
 
-<body>
+<body onload="reroute()">
     <div id="app">
         <p>Please ensure JavaScript is enabled.</p>
         <p>Loading...</p>
@@ -24,9 +24,7 @@
     </div>
 
     <script src="_framework/blazor.webassembly.js"></script>
-    <script src="src/js/redirect.js">
-        reroute();
-    </script>
+    <script src="src/js/redirect.js"></script>
 </body>
 
 </html>
