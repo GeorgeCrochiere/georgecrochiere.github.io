@@ -3,6 +3,7 @@
     if (site.search.length > 1) {
         var newSite = site.origin;
         newSite += site.search.substring(1);
+        site.search = '';
         site.replace(newSite);
     }
 }
