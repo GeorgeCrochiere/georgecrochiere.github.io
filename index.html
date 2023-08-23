@@ -24,7 +24,11 @@
     </div>
 
     <script src="_framework/blazor.webassembly.js"></script>
-    <script src="src/js/redirect.js"></script>
+    <script type="text/javascript">
+        while (document.readyState != "complete") {
+        }
+        reroute();
+    </script>
 </body>
 
 </html>
