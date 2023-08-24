@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "HonorsPortfolioSite.dll": "sha256-5B7WwuiDLRr2lvFxQI8jUbfMEtLKiB6L5FRZv0JGAU8=",
+      "HonorsPortfolioSite.dll": "sha256-1IQSwdkSzDB8ay1Pk3Hca9q\/xJzjfEIcTsj3QzCohRs=",
       "Microsoft.AspNetCore.Components.dll": "sha256-E2RKvnNFd6hpalk6bGCEPlL7lRsDrHqaV8s4Cuw\/HAI=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-zD7jZWZC0JjPboMe5QJbgyAnFMQld47qfcVaoTVruQY=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Vg3TrndeJD43yrWipLvpZIUkG\/gsZ3o4oeysmZMBL30=",
