@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "HonorsPortfolioSite.dll": "sha256-1IQSwdkSzDB8ay1Pk3Hca9q\/xJzjfEIcTsj3QzCohRs=",
+      "HonorsPortfolioSite.dll": "sha256-DgcePTEFI9jvnT4WCCPr+1X8MVE5mV7WkvzHh3hj+ec=",
       "Microsoft.AspNetCore.Components.dll": "sha256-E2RKvnNFd6hpalk6bGCEPlL7lRsDrHqaV8s4Cuw\/HAI=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-zD7jZWZC0JjPboMe5QJbgyAnFMQld47qfcVaoTVruQY=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Vg3TrndeJD43yrWipLvpZIUkG\/gsZ3o4oeysmZMBL30=",
@@ -34,7 +34,7 @@
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-QkFeCJRGzsGF83M6krrxdA4745bNhr4YEDdgD2VwDzY=",
       "System.Private.Uri.dll": "sha256-u37tuFfTArPuab7Ftn2P3GQj376FSotIO4pUFiE\/TOg=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-KmGCsXRKDz5nzXlgYQ96tYesD9PWo8E3vUN1sRnyEBs=",
-      "System.Runtime.dll": "sha256-lnjNPissMqnmUUeTaBLNDrMeU+uDBFrhazQuM12R+YY=",
+      "System.Runtime.dll": "sha256-\/iRBaVNEUdPQ58htq+pJqxGV7GtqO1MWwQ\/jq68Fw1M=",
       "System.Text.Encodings.Web.dll": "sha256-uhzrnefiYq+YccbS0LH\/\/4mXqb5X5CoT\/PStgHXzfDc=",
       "System.Text.Json.dll": "sha256-plplYhZ340Zqwg1lvfsE8KKJ\/ZwzuEG9V9dH1hitnfc="
     },
