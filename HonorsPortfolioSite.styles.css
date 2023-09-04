@@ -128,6 +128,24 @@ hr[b-xla19xo975] {
         justify-content: left;
     }
 }
+/* /Shared/Err404Component.razor.rz.scp.css */
+h2.colored-header[b-tvg9azci6a] {
+    color: #00B295;
+    font-size: 2rem;
+}
+
+h2.error-desc[b-tvg9azci6a] {
+    font-size:1.75rem;
+}
+
+h1.error-title[b-tvg9azci6a] {
+    font-size:2.5rem;
+}
+
+div.error-404[b-tvg9azci6a] {
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
 /* /Shared/EssayForm.razor.rz.scp.css */
 .honors-article[b-lzga3qavbo] {
     color: aliceblue;

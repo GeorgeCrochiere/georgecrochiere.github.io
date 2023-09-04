@@ -25,8 +25,19 @@
 
     <script type="text/javascript">
         var site = window.location;
-        var newSiteString = site.origin + "/?" + site.pathname;
-        site.replace(newSiteString);
+        var foundPath = 0;
+        var newSiteString = site.origin + "/?search=" + site.pathname.substring(1);
+        const pathnames = ["about", "mission_statement", "resume", "programming_projects", "clarkson_honors", "contact"];
+        for (let i = 0; i < pathnames.length; i++) {
+            if (site.pathname.toString().includes(pathnames[i].toString())) {
+                site.replace(newSiteString);
+                foundPath = 1;
+                break;
+            }
+        }
+        if (foundPath = 0) {
+            site.replace(site.origin + "/?search=page_not_found");
+        }
     </script>
     <script src="_framework/blazor.webassembly.js"></script>
 </body>
